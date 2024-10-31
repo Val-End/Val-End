@@ -1,7 +1,7 @@
 <h2 align="center">Hey 👋</h2>
 
 * Me llamo Valentin pero me dicen Valen.
-* Soy un Desarrollador de Software, y Creador de Contenido de Minecraft, Argentino.
+* Soy un Desarrollador de Software, y Creador de Contenido de Minecraft, Argentino 🇦🇷.
 * Regularmente uso Java para modificar Minecraft, pero me gusta mas TypeScript. 
 
 
