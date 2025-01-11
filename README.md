@@ -1,7 +1,6 @@
 
 <div align="center" display=flex>
-  <img src="https://cdn.discordapp.com/attachments/1304851523242557603/1315462986713796619/GHIK5yKXIAAWR7s.png?ex=67577fe0&is=67562e60&hm=dcf1ab39828847aecc849655bc95ff6a6a4eaac165c6b86bf84113e22330f474&" width="150px">
-
+  
 # Soy Valen
 
 </div> 
