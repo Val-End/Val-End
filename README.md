@@ -1,22 +1,3 @@
-
-<div align="center" display=flex>
-  
-# Soy Valen
-
-</div> 
-
-* Soy un Desarrollador de Software, y Creador de Contenido de Minecraft, Argentino 🇦🇷.
-* Regularmente uso Java para modificar Minecraft, pero me gusta mas TypeScript. 
-
-
-<h2 align="center">📊 Stats</h2>
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=Val-End&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-profile-trophy.vercel.app/?username=Val-End&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div> 
-
 <h2 align="center">💻 Skills</h2>
 <h3 align="center">Java</h3>
 <p align="center">
@@ -55,3 +36,10 @@
     <img src="https://skillicons.dev/icons?i=ae,pr,ps" />
   </a>
 </p>
+<h2 align="center">📊 Stats</h2>
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Val-End&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-profile-trophy.vercel.app/?username=Val-End&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div> 
